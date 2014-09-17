@@ -9,3 +9,13 @@ M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\b
 M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\obj\Debug\KerbalEjectionSeat.csprojResolveAssemblyReference.cache
 M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\obj\Debug\KerbalEjectionSeat.dll
 M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\obj\Debug\KerbalEjectionSeat.pdb
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\bin\Debug\KerbalEjectionSeat.dll
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\bin\Debug\KerbalEjectionSeat.pdb
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\bin\Debug\Assembly-CSharp.dll
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\bin\Debug\UnityEngine.dll
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\bin\Debug\Mono.Cecil.dll
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\bin\Debug\TDx.TDxInput.dll
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\bin\Debug\Mono.Security.dll
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\obj\Debug\KerbalEjectionSeat.dll
+C:\Users\Justin\Documents\GitHub\Kerbal-Ejection-Seat\KerbalEjectionSeat\obj\Debug\KerbalEjectionSeat.pdb
