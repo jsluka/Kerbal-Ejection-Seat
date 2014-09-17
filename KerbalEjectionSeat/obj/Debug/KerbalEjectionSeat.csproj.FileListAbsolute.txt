@@ -1,0 +1,11 @@
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\bin\Debug\KerbalEjectionSeat.dll
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\bin\Debug\KerbalEjectionSeat.pdb
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\bin\Debug\Assembly-CSharp.dll
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\bin\Debug\UnityEngine.dll
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\bin\Debug\Mono.Cecil.dll
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\bin\Debug\Assembly-CSharp-firstpass.dll
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\bin\Debug\TDx.TDxInput.dll
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\bin\Debug\Mono.Security.dll
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\obj\Debug\KerbalEjectionSeat.csprojResolveAssemblyReference.cache
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\obj\Debug\KerbalEjectionSeat.dll
+M:\Documents\Visual Studio 2012\Projects\KerbalEjectionSeat\KerbalEjectionSeat\obj\Debug\KerbalEjectionSeat.pdb
