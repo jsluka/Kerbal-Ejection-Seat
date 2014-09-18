@@ -6,7 +6,7 @@ An ejection seat mod for Kerbal Space Program. Planned to add ejection functiona
 PLANNED MILESTONES:
 
 0.1 : RUDIMENTARY EJECTION
-  - Kerbal begins EVA on Abort event
+  - Kerbal begins EVA on Abort event (Completed 9/17/2014)
     - Kerbal begins EVA without holding onto the command pod
   - All Kerbals begin EVA on Abort event
     - Kerbals begin EVA without holding onto the command pod all at once
@@ -15,8 +15,8 @@ PLANNED MILESTONES:
     - Kerbals begin EVA ejection in ALL command pods
 
 0.2 : EJECTION COMMANDS
-  - Add actions to command pods
-    - Allow ejection without the use of Abort event
+  - Add actions to command pods (Completed 9/17/2014)
+    - Allow ejection without the use of Abort event (Completed 9/17/2014)
   - Add ejection lever to command pods
     -Find modeller!
 
